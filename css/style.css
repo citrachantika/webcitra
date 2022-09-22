@@ -200,7 +200,7 @@ header .follow a:hover {
 .tentangsaya .row-1 .image img{
     height: 100%;
     width: 100%;
-    object-fit: none;
+    object-fit: contain;
 }
 
 .tentangsaya .row-1 .content{
